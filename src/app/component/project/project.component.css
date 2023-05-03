@@ -1,0 +1,71 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 8px;
+    padding-left: 80px;
+    padding-top: 30px; 
+    
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  td{
+    text-align: center;
+  padding: 1px 20px 1px 20px;
+  border-bottom: 1px solid grey;
+  }
+  
+  th {
+  text-align: center;
+  padding: 1px 20px 1px 20px;
+  background-color: rgb(245, 244, 244);
+  cursor: pointer;
+  
+  }
+  
+  tr:nth-child(even) {
+    background-color: white;
+  }
+  
+  
+  .container {
+    width: 800px;
+    margin: auto;
+   
+  }
+
+  .container1 {
+    width: 800px;
+    margin: auto;
+   
+  }
+  
+  .example-container {
+    width: 1200px;
+    max-width: 100%;
+    
+  }
+  
+  mat-icon {
+    padding-right: 20px;
+    cursor: pointer;
+    
+  }
+  
+  mat-label {
+    color: rgb(122, 122, 128);
+    font-style: normal;
+  }
+  
+  .example-action-button{
+    margin-top: 16px;
+  }
+  
+  
+  
+  
+  
